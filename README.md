@@ -84,12 +84,7 @@ More information can be found in [preprocess_custom_data](https://github.com/Tot
 Cite as below if you find this repository is helpful to your project:
 
 ```
-@article{wang2021neus,
-  title={NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction},
-  author={Wang, Peng and Liu, Lingjie and Liu, Yuan and Theobalt, Christian and Komura, Taku and Wang, Wenping},
-  journal={arXiv preprint arXiv:2106.10689},
-  year={2021}
-}
+
 ```
 
 ## Acknowledgement
