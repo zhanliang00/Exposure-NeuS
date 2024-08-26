@@ -75,14 +75,6 @@ python exp_runner.py --mode validate_mesh --conf <config_file> --case <case_name
 
 The corresponding mesh can be found in `exp/<case_name>/<exp_name>/meshes/<iter_steps>.ply`.
 
-- **View interpolation**
-
-```shell
-python exp_runner.py --mode interpolate_<img_idx_0>_<img_idx_1> --conf <config_file> --case <case_name> --is_continue # use latest checkpoint
-```
-
-The corresponding image set of view interpolation can be found in `exp/<case_name>/<exp_name>/render/`.
-
 ### Train NeuS with your custom data
 
 More information can be found in [preprocess_custom_data](https://github.com/Totoro97/NeuS/tree/main/preprocess_custom_data).
