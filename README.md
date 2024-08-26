@@ -33,8 +33,8 @@ Here the `cameras_xxx.npz` follows the data format in [IDR](https://github.com/l
 Clone this repository
 
 ```shell
-git clone https://github.com/Totoro97/NeuS.git
-cd NeuS
+git clone https://github.com/zhanliang00/Exposure-NeuS.git
+cd Exposure-NeuS
 pip install -r requirements.txt
 ```
 
