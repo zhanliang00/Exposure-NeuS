@@ -75,7 +75,7 @@ python runner.py --mode validate_mesh --conf <config_file> --case <case_name> --
 
 The corresponding mesh can be found in `exp/<case_name>/<exp_name>/meshes/<iter_steps>.ply`.
 
-### Train NeuS with your custom data
+### Train Exposure-NeuS with your custom data
 
 More information can be found in [preprocess_custom_data](https://github.com/Totoro97/NeuS/tree/main/preprocess_custom_data).
 
