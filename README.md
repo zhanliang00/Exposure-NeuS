@@ -58,13 +58,13 @@ pip install -r requirements.txt
 - **Training without masks**
 
 ```shell
-python exp_runner.py --mode train --conf ./confs/womask.conf --case <case_name>
+python runner.py --mode train --conf ./confs/womask.conf --case <case_name>
 ```
 
 - **Training with masks**
 
 ```shell
-python exp_runner.py --mode train --conf ./confs/wmask.conf --case <case_name>
+python runner.py --mode train --conf ./confs/wmask.conf --case <case_name>
 ```
 
 - **Extract surface from trained model** 
