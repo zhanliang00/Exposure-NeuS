@@ -5,7 +5,8 @@ We present a novel neural surface reconstruction method, called Exposure-NeuS, f
 ![](./static/intro_2_compressed.gif)
 
 ## [Project page]() |  [Paper]()
-This is the official repo for the implementation of **NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction**.
+This is the official repo for the implementation of **Exposure-NeuS: Multi-view Head Reconstruction
+Using Exposure-Distorted Data**.
 
 ## Usage
 
