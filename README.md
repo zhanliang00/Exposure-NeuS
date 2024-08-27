@@ -89,4 +89,4 @@ Cite as below if you find this repository is helpful to your project:
 
 ## Acknowledgement
 
-Some code snippets are borrowed from [IDR](https://github.com/lioryariv/idr) and [NeRF-pytorch](https://github.com/yenchenlin/nerf-pytorch). Thanks for these great projects.
+Some code snippets are borrowed from [IDR](https://github.com/lioryariv/idr) and [NeuS](https://github.com/Totoro97/NeuS). Thanks for these great projects.
